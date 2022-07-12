@@ -1,4 +1,4 @@
-import {render, fire, fireEvent} from "@testing-library/react";
+import {render,  fireEvent} from "@testing-library/react";
 import { act } from "react-dom/test-utils";
 import Input from "./Input"; //importing the component we want to test
 
